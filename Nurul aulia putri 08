@@ -1,0 +1,17 @@
+#include <iostream>
+#incude  <conio. h>
+using namespace std;
+int main () 
+{
+     int bil = 10;
+     do
+     {
+          Cout<<"HI!  do-while tetap ini di jalankan, <<
+          "walaupun kondisi / keadaan salah. "<<endl;
+
+     } 
+      while (bill <5);
+         Cout<<endl;
+         Cout<<"keluar. bukan pernyataan do-while. "<<endl;_getche() ;
+      return 0;
+} 
